@@ -1,0 +1,297 @@
+@media (min-width: 320px) and (max-width: 575px) {
+
+/* Main_menu part Start */
+#Main_menu #navbarSupportedContent{
+    background-color: #d50a51;
+    padding: 20px 30px;
+    margin-top: 10px;
+}
+
+#Main_menu ul li a:hover {
+	color: #fff;
+}
+
+#Main_menu ul li a{
+    margin-bottom: 10px;
+}
+#Main_menu ul .login_button {
+	color: #d50a51;
+    background-color: #fff;
+
+}
+	
+#Main_menu ul li img {
+	display: none;
+}
+
+.navbar-toggler:focus {
+
+	box-shadow: none;
+}
+
+/* Main_menu part End*/
+
+/* Main_banner Start */
+
+#Main_banner .img img{
+display: none;
+}
+
+#Main_banner {
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+#Main_banner .text h2 {
+	font-size: 40px;
+	line-height: 54px;
+}
+#Main_banner .text h1 {
+	font-size: 55px;
+	line-height: 22px;
+}
+
+#Main_banner .text p {
+	font-size: 12px;
+	line-height: 24px;
+	margin-top: 25px;
+}
+
+#Main_banner a {
+	margin-top: 10px;
+}
+
+/* Main_Banner End */
+
+/* Bnner_two Start */
+
+#Banner_two .A {
+	margin-top: -35px;
+	margin-left: 80px;
+}
+#Banner_two .B {
+	margin-left: 80px;
+}
+
+#Banner_two .pera_one {
+	margin-top: 9px;
+}
+
+.pera_one {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+.pera_two {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+#Banner_two .img-2{
+	display: block !important;
+}
+  
+#Banner_two .img-1{
+	display: none !important;
+}
+
+/* Banner_two End============= */
+
+/* Banner_Three Start-------- */
+#Banner_three .A {
+	margin-top: 35px;
+	margin-left: 80px;
+}
+#Banner_three .B {
+	margin-left: 30px;
+}
+.common_btn {
+	padding: 10px 6px;
+}
+
+#Banner_three img {
+display: none;
+}
+/* Banner_Three End========= */
+/* Banner_four Start-------- */
+#Banner_four img, svg {
+	margin-top: -65px;
+}
+
+#Banner_four .pera_one {
+	text-align: justify;
+}
+#Banner_four .common_btn {
+	margin: 15px 15px;
+
+}
+
+.B {
+	font-size: 30px;
+}
+
+
+
+/* Banner_four End========== */
+
+
+#Banner_five .item {
+	margin-top: 20px
+	;
+}
+
+/* Banner_four End=========== */
+
+/* Couple Part Start--------- */
+#Couple {
+	padding: 10px 0;
+}
+/* Cople part End============= */
+
+
+#day .counter {
+	flex-wrap: wrap;
+	margin-left: -4px;
+}
+
+#day .counter h3 {
+	font-size: 20px;	
+}
+
+#day .counter p {
+	font-size: 17px;
+}
+
+
+#Testimonial .testi_icon_1 {
+	display: none;
+}
+
+#Testimonial .testi_icon_2 {
+	display: none;
+}
+
+
+
+#Testimonial .prev {
+	font-size: 20px;
+	color: #d50a51;
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #d50a51;
+	cursor: pointer;
+	position: absolute;
+	top: 106%;
+	transform: translateY(-50% -50%);
+	left: 30%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	-webkit-transform: translateY(-50% -50%);
+	-moz-transform: translateY(-50% -50%);
+	-ms-transform: translateY(-50% -50%);
+	-o-transform: translateY(-50% -50%);
+	z-index: 9999;
+}
+
+
+
+#Testimonial .next {
+	font-size: 20px;
+	color: #d50a51;
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #d50a51;
+	cursor: pointer;
+	position: absolute;
+	top: 106%;
+	transform: translateY(-50% -50%);
+	right: 30%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-ms-border-radius: 50%;
+	-o-border-radius: 50%;
+	-webkit-transform: translateY(-50% -50%);
+	-moz-transform: translateY(-50% -50%);
+	-ms-transform: translateY(-50% -50%);
+	-o-transform: translateY(-50% -50%);
+	z-index: 9999;
+}
+
+
+
+
+#footer .newsletter .main {
+	flex-wrap: wrap;
+}
+
+
+#footer .newsletter {
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	-ms-border-radius: 0;
+	-o-border-radius: 0;
+}
+
+
+#footer .newsletter .main .left {
+	padding-left: 0;
+}
+
+#footer .newsletter .main .left i {
+	font-size: 12px;
+	left: -60px;
+	
+}
+
+#footer .newsletter .main .left i {
+	font-size: 30px;
+	left: -35px;
+	top: -3px;
+}
+
+#footer .newsletter .main .right button {
+	top: 112px;
+	width: 100%;
+}
+
+#footer .newsletter .main .left h3 {
+	font-size: 17px;
+	letter-spacing: 1px;
+}
+#footer .newsletter .main .left p {
+	font-size: 11px;
+	margin-top: 0px;
+}
+
+
+#footer .information {
+	display: block;
+}
+
+#footer .icon-item i {
+	font-size: 20px;
+	height: 40px;
+	width: 40px;
+	line-height: 40px;
+}
+	
+#Developer p {
+	font-size: 13px;
+}
+
+
+
+}
+
+/* Responsive End */
+
+
+
